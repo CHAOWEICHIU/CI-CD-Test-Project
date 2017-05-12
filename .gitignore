@@ -1,0 +1,10 @@
+node_modules
+build
+.DS_Store
+.env
+npm-debug.log
+www
+config.js
+coverage
+p.js
+hapi-wayne.pem
